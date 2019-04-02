@@ -2,7 +2,7 @@
 	<div id="home" class="">
 		<div id="landing-text">
 			<div class="container">
-				<h1 id="txt-satu" class="text-left font-weight-bold">Kaktus KMI Jogja</h1>
+				<h1 id="txt-satu" class="text-left font-weight-bold">KaktusKmi Jogja</h1>
 				<h5 class="text-left my-4 font-italic">Ini baru kaktus nya orang Jogja uhuyy
 				</h5>
 				<!-- <a href="#" class="btn btn-warning mt-4">Marketplace</a> -->
@@ -53,7 +53,7 @@
 
 <section class="container">
 	<div>
-		<h4 class="text-center">Produk Terbaru dari KaktusKMI</h4>
+		<h4 class="text-center">Produk Terbaru dari KaktusKmi</h4>
 	</div>
 	<div class="card-deck my-3">
 		<div class="card">
