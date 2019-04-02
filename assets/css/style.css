@@ -62,3 +62,15 @@
 #card-satu {
 	background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg);
 }
+#card-article {
+	background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg);
+	height: 300px;
+	
+}
+#card-article-text{
+	text-transform: uppercase;
+	position: absolute;
+	bottom: 10px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
