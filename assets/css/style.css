@@ -1,64 +1,64 @@
-/*--------------#Navbar XXX-----------------*/
-
-.navbar-xxx .navbar-brand {
-	color: #fff
+#home {
+	/* background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg) no-repeat center center fixed; */
+	display: table;
+	height: 650px;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	color: #fff;
+	background-color: teal;
+	min-height: 590px;
+	max-height: 630px;
 }
 
-.navbar-xxx .navbar-brand:focus,
-.navbar-xxx .navbar-brand:hover {
-	color: #fff
+#landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
 }
 
-.navbar-xxx .navbar-nav .nav-link {
-	color: rgba(255, 255, 255, .5)
+#txt-satu {
+	font-size: 82px !important;
 }
 
-.navbar-xxx .navbar-nav .nav-link:focus,
-.navbar-xxx .navbar-nav .nav-link:hover {
-	color: rgba(255, 255, 255, .75)
+.MainPage {
+	background-color: #fff;
+	min-height: 250px;
 }
 
-.navbar-xxx .navbar-nav .nav-link.disabled {
-	color: rgba(255, 255, 255, .25)
+.float {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 40px;
+	right: 27px;
+	background-color: #25d366;
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 39px;
+	/* box-shadow: 2px 2px 3px #888; */
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+	z-index: 100;
 }
 
-.navbar-xxx .navbar-nav .nav-link.active,
-.navbar-xxx .navbar-nav .active>.nav-link,
-.navbar-xxx .navbar-nav .nav-link.show,
-.navbar-xxx .navbar-nav .show>.nav-link {
-	color: #fff
+.float-ig {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 118px;
+	right: 27px;
+	/* background-color:#25d366; */
+	background-image: linear-gradient(to bottom right, #fb3958, #ffc838, #6dc993, #458eff);
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 39px;
+	/* box-shadow: 2px 2px 3px #888; */
+	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+	z-index: 100;
 }
 
-.navbar-xxx .navbar-toggler {
-	color: rgba(255, 255, 255, .5);
-	border-color: rgba(255, 255, 255, .1)
-}
-
-.navbar-xxx .navbar-toggler-icon {
-	background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
-}
-
-.navbar-xxx .navbar-text {
-	color: rgba(255, 255, 255, .5)
-}
-
-.navbar-xxx .navbar-text a {
-	color: #fff
-}
-
-.navbar-xxx .navbar-text a:focus,
-.navbar-xxx .navbar-text a:hover {
-	color: #fff
-}
-
-.bg-xxx {
-    /* background-color: #343a40 !important */
-    background: linear-gradient(to right,#27d4ad, #77e199) !important;
-}
-
-a.bg-xxx:focus,
-a.bg-xxx:hover,
-button.bg-xxx:focus,
-button.bg-xxx:hover {
-	background-color: #1d2124 !important
+#card-satu {
+	background: url(http://localhost/kmikaktus/assets/img/cactus_k02.jpg);
 }
