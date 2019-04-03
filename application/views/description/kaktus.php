@@ -17,6 +17,7 @@
                     <li>Coffee</li>
                     <li>Tea</li>
                     <li>Milk</li>
+                    <li>Tea</li>
                 </ul>  
                 </div>
             </div>
@@ -31,6 +32,7 @@
                     <li>Coffee</li>
                     <li>Tea</li>
                     <li>Milk</li>
+                    <li>Tea</li>
                 </ol> 
                 </div>
             </div>
