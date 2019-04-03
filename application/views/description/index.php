@@ -7,7 +7,7 @@
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
 					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -17,7 +17,7 @@
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
 					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -27,7 +27,7 @@
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
 					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -38,8 +38,8 @@
 				<div class="card-body">
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
-					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+					<a href="#" class="btn btn-outline-secondary text-right" disabled><i
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -49,7 +49,7 @@
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
 					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
@@ -59,7 +59,7 @@
 					<h5 class="card-title">Nama Tanaman</h5>
 					<p class="card-text font-italic">Nama Latin</p>
 					<a href="#" class="btn btn-outline-secondary" disabled><i
-							class="fas fa-cart-arrow-down fa-lg mx-2"></i></a>
+							class="fas fa-arrow-right fa-lg mx-2"></i></a>
 				</div>
 			</div>
 		</div>
