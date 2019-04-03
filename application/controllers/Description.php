@@ -9,5 +9,14 @@
             $this->load->view('description/index');
             $this->load->view('templates/footer');
         }
+
+        public function kaktus()
+        {
+            $data['judul'] = 'Kaktus';
+
+            $this->load->view('templates/header', $data);
+            $this->load->view('description/kaktus');
+            $this->load->view('templates/footer');
+        }
     }
 ?>
